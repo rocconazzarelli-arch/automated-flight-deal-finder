@@ -1,0 +1,6 @@
+matplotlib
+numpy
+openpyxl
+scikit-learn
+selenium
+tkcalendar

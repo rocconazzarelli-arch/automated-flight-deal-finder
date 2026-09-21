@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Generated data and reports
+*.xlsx
+*.xls
+*.png
+*.csv
+*.log
+
+# Local caches / temporary files
+.botflights_cache/
+*.tmp
+*.bak
